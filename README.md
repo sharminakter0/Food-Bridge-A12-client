@@ -11,7 +11,7 @@ Users can browse available food donations, save their favorites, request food it
 
 <p align="center">
   <img
-    src="[YOUR_IMGBB_DIRECT_IMAGE_LINK](https://i.ibb.co.com/ZR2WvwL4/image.png)"
+    src="https://i.ibb.co.com/ZR2WvwL4/image.png"
     width="90%"
     alt="FoodBridge"
   />
